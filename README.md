@@ -35,16 +35,18 @@ To become an industry-ready Machine Learning Engineer within one year — by lea
 
 ## 🧪 Repository Structure
 
+```text
 ml-journey-from-dba/
 │
-├── 01_python_basics/ # Core Python programs and notebooks
-├── 02_numpy_pandas/ # Data manipulation and exploration
-├── 03_visualization/ # Matplotlib & Seaborn charts
-├── 04_math_for_ml/ # Linear algebra, stats, probability notebooks
-├── datasets/ # Sample datasets (not tracked in Git)
-├── LICENSE # MIT License
-├── .gitignore # Git ignore rules
-└── README.md # This file
+├── 01_python_basics/           # Core Python programs and notebooks
+├── 02_numpy_pandas/            # Data manipulation and exploration
+├── 03_visualization/           # Matplotlib & Seaborn charts
+├── 04_math_for_ml/             # Linear algebra, stats, probability notebooks
+├── datasets/                   # Sample datasets (not tracked in Git)
+├── LICENSE                     # MIT License
+├── .gitignore                  # Git ignore rules
+└── README.md                   # This file
+```
 
 ---
 
