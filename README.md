@@ -73,7 +73,7 @@ ml-journey-from-dba/
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/sudarsan-rajagopalan-17572b61)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sudarsan-rajagopalan-17572b61)
 - 📊 [Kaggle](https://www.kaggle.com/sudarsanr)
 - 🐍 [GitHub Portfolio](https://github.com/SudarsanRajagopalan)
 - 🧠 Always learning. Always building.
