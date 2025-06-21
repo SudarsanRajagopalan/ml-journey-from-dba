@@ -34,6 +34,7 @@ To become an industry-ready Machine Learning Engineer within one year — by lea
 ---
 
 ## 🧪 Repository Structure
+
 ml-journey-from-dba/
 │
 ├── 01_python_basics/ # Core Python programs and notebooks
