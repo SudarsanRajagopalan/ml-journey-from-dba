@@ -192,3 +192,26 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (optional - ignore large files or private data)
+datasets/
+*.csv
+*.tsv
+*.xlsx
+
+# Model artifacts
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Logs and outputs
+*.log
+
+# IDE/editor folders (optional)
+.vscode/
+.idea/
