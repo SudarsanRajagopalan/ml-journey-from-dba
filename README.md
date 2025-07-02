@@ -15,7 +15,7 @@ To become an industry-ready Machine Learning Engineer within one year — by lea
 ## 🗺️ Journey Roadmap
 
 ### 🔄 Phase 1: Foundations
-- [ ] Python programming (functions, OOP, data structures)
+- [X] Python programming (functions, OOP, data structures)
 - [ ] NumPy & Pandas (data handling)
 - [ ] Data visualization (Matplotlib & Seaborn)
 - [ ] Math for ML (linear algebra, probability, statistics)
