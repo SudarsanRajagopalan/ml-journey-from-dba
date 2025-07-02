@@ -1,5 +1,7 @@
 # 🧠 ML Journey from DBA: Sudarsan's Transition to Machine Learning 🚀
 
+![Python Basics](https://img.shields.io/badge/Python_Basics-Completed-brightgreen?style=flat-square&logo=python)
+
 > *"Journeys are meant for the brave."*
 
 Hi, I'm **Sudarsan Rajagopalan**, a Computer Science and Engineering graduate (2011–2015) from Rajalakshmi Engineering College, affiliated with **Anna University**. I ranked **38th out of over 19,000 students** in the Anna University final results — a milestone that reflects my commitment to excellence and deep learning.
